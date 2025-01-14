@@ -1,4 +1,3 @@
-# Car_Purchase_Advisor
 
 # Car Purchase Advisor System
 
